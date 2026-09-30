@@ -3,5 +3,11 @@
   <channel>
     <title>Mandoobi</title>
     <!-- Newest version first. Items are added by tool/release.sh in the app project. -->
+    <item>
+      <title>Version 1.0.2 (2)</title>
+      <description>new version is up!</description>
+      <pubDate>Wed, 30 Sep 2026 13:42:57 GMT</pubDate>
+      <enclosure url="https://github.com/amr-alawaad99/mandoobi-releases/releases/download/v1.0.2/mandoobi-1.0.2.apk" sparkle:version="1.0.2" sparkle:os="android" type="application/vnd.android.package-archive" />
+    </item>
   </channel>
 </rss>
