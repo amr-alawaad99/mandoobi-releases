@@ -4,6 +4,14 @@
     <title>Mandoobi</title>
     <!-- Newest version first. Items are added by tool/release.sh in the app project. -->
     <item>
+      <title>Version 1.0.2611030 (3)</title>
+      <description>- حد خصم منفصل لخصم الصنف وخصم الفاتورة
+- تنزيل وتثبيت التحديثات من داخل التطبيق
+- مسح كود التفعيل بالكاميرا</description>
+      <pubDate>Tue, 03 Nov 2026 09:13:38 GMT</pubDate>
+      <enclosure url="https://github.com/amr-alawaad99/mandoobi-releases/releases/download/v1.0.2611030/mandoobi-1.0.2611030.apk" sparkle:version="1.0.2611030" sparkle:os="android" type="application/vnd.android.package-archive" />
+    </item>
+    <item>
       <title>Version 1.0.2 (2)</title>
       <description>new version is up!</description>
       <pubDate>Wed, 30 Sep 2026 13:42:57 GMT</pubDate>
